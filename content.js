@@ -37,6 +37,6 @@
         }
     };
 
-// Run the script every 2 minutes (120,000 milliseconds)
- setInterval(runScript, 120000);
+// Run the script every 5 sec
+ setInterval(runScript, 5000);
 })();
